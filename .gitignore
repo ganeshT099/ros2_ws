@@ -12,3 +12,6 @@ __pycache__/
 
 # ROS 2 / colcon
 .colcon/
+
+# OmniRush agent metadata
+__agent__/
